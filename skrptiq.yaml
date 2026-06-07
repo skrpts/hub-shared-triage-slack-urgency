@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "cb5fd0e2-9b8f-4159-8eb6-bcd68bc6ca70"
+id: "093e8081-5950-4aa9-8ca2-ce990b36ff8c"
 name: "triage-slack-urgency"
 display_name: "Triage Urgency"
 description: "Classifies messages by urgency level — action required, FYI, or background"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
