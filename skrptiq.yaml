@@ -3,7 +3,7 @@ id: "093e8081-5950-4aa9-8ca2-ce990b36ff8c"
 name: "triage-slack-urgency"
 display_name: "Triage Urgency"
 description: "Classifies messages by urgency level — action required, FYI, or background"
-version: "1.0.3"
+version: "1.0.4"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -28,7 +28,7 @@ contents:
 
 security:
   status: "pass"
-  scanned_at: "2026-06-08T18:55:20.075Z"
+  scanned_at: "2026-07-16T14:49:50.276Z"
   scanner_version: "3.3.0"
   syntactic: "pass"
   structural: "pass"
